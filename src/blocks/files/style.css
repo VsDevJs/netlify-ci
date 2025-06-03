@@ -1,11 +1,15 @@
-* { 
-  font-size:21px;
+* {
+  font-size: 21px;
 }
 
-p { 
+p {
   display: block;
 }
 
-.css_style { 
-  font-size:15px;
+.css_style {
+  font-size: 15px;
+}
+
+.nos {
+  font-size: 15px;
 }
